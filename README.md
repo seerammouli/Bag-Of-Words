@@ -1,4 +1,4 @@
 # Bag-Of-Words
 News Article Sorting
-# Requirements
+Requirements:
 Jupyter notebook or Google Colab
